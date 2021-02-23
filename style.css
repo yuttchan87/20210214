@@ -1,0 +1,18 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.header-right h2{
+    font-size: 18px;  
+}
+.header-right h3{
+    font-size: 36px;
+}
+.main-contents h1{
+    font-size: 30px;
+}
+.blog-contents{
+    padding: 1rem 0;
+}
+.blog-contents h2{
+    font-size: 24px;
+}
